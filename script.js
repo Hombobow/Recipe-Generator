@@ -1,5 +1,3 @@
-const apiKey = "c90326a92c6e478b9f2866fce34e7823";
-
 recipe = {
     fetchRecipe: function(query){
         fetch(
